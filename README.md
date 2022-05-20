@@ -1,4 +1,4 @@
-![](images/filename%20background.jpg)
+![](images/background.jpg)
 
 <h1 align="center">Hi 👋, I'm Full Stack Software Engineer</h1>
 <h3 align="center">A dedicated fullstack developer from Texas</h3>
