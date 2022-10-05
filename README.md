@@ -3,15 +3,15 @@
 <h1 align="center">Hi 👋, I'm Full Stack Software Engineer</h1>
 <h3 align="center">A dedicated fullstack developer from Texas</h3>
 
-- 🔭 I’m currently working on [Breath of the Wild Item Search Engine](https://unique-bavarois-cc87f3.netlify.app/)
+- 🔭 I’m currently working on an [Anonymous Social Medica Website](https://github.com/BrookeLeeK/100-hours-project)
 
-- 🌱 I’m currently learning **Backend web development**
+- 🌱 I’m currently learning **React.js**
 
 - 👯 I’m looking to collaborate on **A houseplant helper app**
 
-- 👨‍💻 All of my projects are available at [https://nimble-choux-d8a887.netlify.app](https://nimble-choux-d8a887.netlify.app)
+- 👨‍💻 All of my projects are available at [https://brookes-portfolio.com/](https://brookes-portfolio.com/)
 
-- 💬 Ask me **anything**
+- 💬 Ask me **about plants, BOTW, or all things related to my cat**
 
 - 📫 How to reach me **brookekalman0@gmail.com**
 
