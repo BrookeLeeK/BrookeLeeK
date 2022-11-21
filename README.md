@@ -15,8 +15,6 @@
 
 - 📫 How to reach me **brookekalman0@gmail.com**
 
-- 📄 Know about my experiences [Ask me via email](Ask me via email)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/brookeleek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="brookeleek" height="30" width="40" /></a>
